@@ -47,6 +47,7 @@ Bookmarks berisi tautan untuk membuka laman;
 •	Laman Panduan BlankOn: panduan.blankonlinux.or.id
 •	Grub BlankOn di Facebook: facebook.com/groups/blankonlinux
 •	Twitter BlankOn: twitter.com/BlankOnLinux/
+
 ### Music Player
 Music Player berisi tombol-tombol pemutar musik (Audacious). Ada 5 tombol;
 •	Stop/Quit : Mematikan aplikasi
